@@ -1,8 +1,6 @@
 📊 Sales & Profit Analysis Dashboard (Excel Project)
-📌 Project Overview
-
+📌 Project Overview 
 This project focuses on building an interactive Sales & Profit Analysis Dashboard in Microsoft Excel to analyze business performance using structured sales data (600+ rows).
-
 The objective was to transform raw data into meaningful insights using Excel data analysis and visualization techniques.
 
 🗂 Dataset Details
