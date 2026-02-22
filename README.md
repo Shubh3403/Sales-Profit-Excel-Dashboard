@@ -1,55 +1,31 @@
-📊 Sales & Profit Analysis Dashboard (Excel Project)
-📌 Project Overview 
-This project focuses on building an interactive Sales & Profit Analysis Dashboard in Microsoft Excel to analyze business performance using structured sales data (600+ rows).
-The objective was to transform raw data into meaningful insights using Excel data analysis and visualization techniques.
+📊 Sales & Profit Dashboard (Excel)
+📌 Overview
+This project is an interactive Sales Performance Dashboard built in Microsoft Excel using Pivot Tables, Charts, and Slicers. It provides a quick overview of sales, cost, quantity, and profitability across regions, categories, and sales representatives.
 
-🗂 Dataset Details
-The dataset contains 600+ sales transaction records including:
-Order ID
-Order Date
-Region
-Category & Sub-Category
-Customer Segment
-Sales
-Profit
-Quantity
-
-🛠 Tools & Excel Features Used
-Pivot Tables
-Pivot Charts
+🛠 Tools Used
+Microsoft Excel
+Pivot Tables & Charts
 Slicers
-XLOOKUP / VLOOKUP
-SUMIFS / AVERAGEIFS
-IF Functions
-KPI Cards
-Conditional Formatting
-Dashboard Layout & Design
+Dashboard Design
 
-📈 Key Performance Indicators (KPIs)
-✅ Total Sales
-✅ Total Profit
-✅ Average Profit Margin
-✅ Total Orders
-✅ Region-wise Sales
-✅ Category-wise Profit
-✅ Monthly Sales Trend
+📊 Key Metrics
+Total Sales: 21.35M
+Total Cost: 43.31M
+Total Orders: 650
+Total Quantity: 5,162
+Total Profit: -21.96M (Overall Loss)
 
-📊 Dashboard Features
-Interactive filtering using slicers
-Dynamic charts linked to Pivot Tables
-Clean KPI section for business summary
-Professional dashboard layout design
+🔍 Key Insights
+Business is running at a net loss due to high overall costs.
+Electronics generates the highest sales among categories.
+Some sales reps generate high sales but low or negative profit.
+Sales trends show spikes on certain dates, indicating seasonal or bulk demand.
 
-🎯 Business Insights Generated
-Identified top-performing regions
-Analyzed category-level profitability
-Detected monthly sales growth patterns
-Evaluated overall business profit margin
+🎯 Features
+Region-wise and category-wise analysis
+Sales rep performance tracking
+Daily sales trends
+Interactive filters (Region, Date, Category, Sales Rep)
 
-🚀 Skills Demonstrated
-Data Cleaning & Structuring
-Business Data Analysis
-Excel Dashboard Development
-Data Visualization
-KPI Reporting
-Analytical Thinking
+📸 Dashboard image
+<img width="1060" height="860" alt="image" src="https://github.com/user-attachments/assets/e16dd7b5-ae19-4b72-8835-77e157aa8e25" />
