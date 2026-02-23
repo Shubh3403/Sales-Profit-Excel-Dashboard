@@ -28,4 +28,5 @@ Daily sales trends
 Interactive filters (Region, Date, Category, Sales Rep)
 
 📸 Dashboard image
-<img width="1060" height="860" alt="image" src="https://github.com/user-attachments/assets/e16dd7b5-ae19-4b72-8835-77e157aa8e25" />
+<img width="1033" height="836" alt="image" src="https://github.com/user-attachments/assets/a54b77f8-9c10-4b5e-9588-f946c65df2ac" />
+
